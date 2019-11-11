@@ -62,7 +62,7 @@ def test_product_incrementSku(pub_data):
 
 
 
-
+print ("你好谭静飞")
 
 
 def test_product_changePrice(pub_data):
